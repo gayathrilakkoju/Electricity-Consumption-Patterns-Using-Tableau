@@ -52,18 +52,12 @@ From time-of-day trends to seasonal surges, the dashboard suite empowers stakeho
 
    * Visualize historical season-based usage and projected demand curves.
 
----
+
 
 ## 📖 **Stories**
 
-### 📘 **Story 1: Powering the Clock**
+ **Story : Story on electrical consumption in india**
 
- 
-### 📗 **Story 2: Weathering the Grid**
-
- 
-
----
 
 ## 🧰 **Tech Stack**
 
@@ -76,9 +70,10 @@ From time-of-day trends to seasonal surges, the dashboard suite empowers stakeho
 
 ## 📄 **Documentation**
 
-The complete lifecycle of the project — from data transformation to dashboard storytelling — is documented in the `/8. Doc and Demo` folder.
+The complete lifecycle of the project — from data transformation to dashboard storytelling — is documented 
 
-> 🔗 Click here to access the full documentation and design files.
+
+
 
 ---
 
@@ -103,22 +98,11 @@ The complete lifecycle of the project — from data transformation to dashboard 
 * ✅ Testing & Feedback
 * ✅ Final Presentation & Documentation
 
----
 
-## 🗣️ **Feedback**
 
-Found this useful? Have suggestions or want to contribute?
-Feel free to open an issue or contact the project team.
-
----
 
 ## 👥 **Authors**
-
-*(LinkedIn Profiles Below)*
-🔗 \[Name 1]
-🔗 \[Name 2]
-🔗 \[Name 3]
-
----
-
-Let me know if you'd like this converted into a formatted document or HTML for a portfolio site!
+K.Divya Sree(22AK1A3023) 
+S.K.Faiza(22AK1A3025) 
+L.Gayathri(22AK1A3027) 
+G.Hari(22AK1A3032)
